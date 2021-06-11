@@ -20,6 +20,10 @@ msgctxt "Addon Description"
 msgid "The Tubed API module provides a convenient way to access YouTube's Data API in Kodi 19+"
 msgstr "Das Tubed-API-Modul stellt eine Schnittstelle zum Zugriff auf Daten über die YouTube-Data-API in Kodi 19+ zur Verfügung."
 
+msgctxt "Addon Disclaimer"
+msgid "A module to access YouTube's Data API"
+msgstr ""
+
 msgctxt "#30000"
 msgid "MPEG-DASH HTTPD"
 msgstr "MPEG-DASH HTTPD"
