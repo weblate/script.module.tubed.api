@@ -19,6 +19,7 @@
         <source>https://github.com/anxdpanic/script.module.tubed.api</source>
         <summary lang="da_DK">Et modul for adgang til YouTubes data-API</summary>
         <summary lang="de_DE">Ein Modul, um Daten über die YouTube-Daten-API abzufragen</summary>
+        <summary lang="en_AU">A module to access YouTube's Data API</summary>
         <summary lang="en_GB">A module to access YouTube's Data API</summary>
         <summary lang="es_ES">Un módulo para accedee al API de Datos de YouTube</summary>
         <description lang="da_DK">Tubed API-modulet giver en praktisk måde at få adgang til YouTubes data-API i Kodi 19+</description>
